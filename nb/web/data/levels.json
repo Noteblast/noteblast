@@ -1,0 +1,510 @@
+{
+	"1": {
+		"%CUSTOM": true,
+		"%CONSTRUCTOR": "Level",
+		"%ARGS": [
+			{
+				"%CUSTOM": true,
+				"%CONSTRUCTOR": "Song",
+				"%ARGS": [
+					[
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								0,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								1,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								2,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								3,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"A",
+								4,
+								0,
+								4,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"A",
+								4,
+								0,
+								5,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								6,
+								2
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								8,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								9,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								10,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								11,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								12,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								13,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								14,
+								2
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								16,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								17,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								18,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								19,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								20,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								21,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								22,
+								2
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								24,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								25,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								26,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								27,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								28,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								29,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								30,
+								2
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								32,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								33,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								34,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								35,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"A",
+								4,
+								0,
+								36,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"A",
+								4,
+								0,
+								37,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"G",
+								4,
+								0,
+								38,
+								2
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								40,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"F",
+								4,
+								0,
+								41,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								42,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"E",
+								4,
+								0,
+								43,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								44,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"D",
+								4,
+								0,
+								45,
+								1
+							]
+						},
+						{
+							"%CUSTOM": true,
+							"%CONSTRUCTOR": "Note",
+							"%ARGS": [
+								"C",
+								4,
+								0,
+								46,
+								2
+							]
+						}
+					],
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							4,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "TimeSignature",
+						"%ARGS": [
+							4,
+							4
+						]
+					},
+					960
+				]
+			},
+			2,
+			2,
+			{
+				"%CUSTOM": true,
+				"%CONSTRUCTOR": "Meta",
+				"%ARGS": [
+					"Level",
+					"Author",
+					"Song",
+					"Dude"
+				]
+			}
+		]
+	}
+}
