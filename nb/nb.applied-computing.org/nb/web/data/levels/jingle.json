@@ -1,0 +1,585 @@
+{
+	"%CUSTOM": true,
+	"%CONSTRUCTOR": "Level",
+	"%ARGS": [
+		{
+			"%CUSTOM": true,
+			"%CONSTRUCTOR": "Song",
+			"%ARGS": [
+				[
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							26,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							0,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							0,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							1,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							2,
+							2
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							4,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							5,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							6,
+							2
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							8,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"G",
+							4,
+							0,
+							9,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"C",
+							4,
+							0,
+							10,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"D",
+							4,
+							0,
+							11,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							12,
+							4
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"F",
+							4,
+							0,
+							16,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"F",
+							4,
+							0,
+							17,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"F",
+							4,
+							0,
+							18,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"F",
+							4,
+							0,
+							19,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"F",
+							4,
+							0,
+							20,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							21,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							22,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							23,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"E",
+							4,
+							0,
+							24,
+							1
+						]
+					},
+					{
+						"%CUSTOM": true,
+						"%CONSTRUCTOR": "Note",
+						"%ARGS": [
+							"D",
+							4,
+							0,
+							25,
+							1
+						]
+					}
+				],
+				{
+					"%CUSTOM": true,
+					"%CONSTRUCTOR": "Note",
+					"%ARGS": [
+						"C",
+						4,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"%CUSTOM": true,
+					"%CONSTRUCTOR": "TimeSignature",
+					"%ARGS": [
+						4,
+						4
+					]
+				},
+				90
+			]
+		},
+		2,
+		2,
+		{
+			"%CUSTOM": true,
+			"%CONSTRUCTOR": "Meta",
+			"%ARGS": [
+				"Jingle Bells",
+				"Aminjin",
+				"",
+				""
+			]
+		}
+	]
+}
