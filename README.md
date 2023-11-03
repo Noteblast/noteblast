@@ -47,7 +47,6 @@ If your operating system is based on `macOS`:
 Install [Node.js](<https://nodejs.org/en/download>) if you do not already have Node on your Macbook.
 
 Create a `Noteblast` folder in your Desktop
-![Creating the Noteblast folder](mfolderpic.png)
 
 <img width="917" alt="mfolderpic" src="https://github.com/Noteblast/noteblast/assets/74037492/2ff6b846-b017-4a05-804c-14678e207730">
 
@@ -55,7 +54,6 @@ Create a `Noteblast` folder in your Desktop
 Go to the [Noteblast repository](<https://github.com/Noteblast/noteblast>)
 
 On the top right corner, click the green `<> Code` button and click “Download ZIP” to get a local copy of the project
-![Cloning the git](mclone.png)
 
 <img width="557" alt="mclone" src="https://github.com/Noteblast/noteblast/assets/74037492/cbe288d6-0f49-486f-bf27-3676de12dea1">
 
@@ -65,7 +63,6 @@ Extract the ZIP file, and move the extracted file to the previously created `Not
 Open the `Noteblast` folder in an IDE of choice, [VSC](<https://code.visualstudio.com/>) is a good option if you do not already have one installed.
 
 Open a new terminal in your IDE
-![New Terminal](mterminal.png)
 
 <img width="771" alt="mterminal" src="https://github.com/Noteblast/noteblast/assets/74037492/58e84a8b-da25-4dbb-afcd-e12fc0bb0a1d">
 
@@ -73,20 +70,16 @@ Open a new terminal in your IDE
 1. Type `cd Desktop` in terminal and press enter
 2. Type `cd Noteblast` in terminal and press enter
 3. Type `cd nb’ in terminal and press enter
-![cd nb](mcd.png)
 
 <img width="503" alt="mcd" src="https://github.com/Noteblast/noteblast/assets/74037492/5186a6cf-aa2f-4df6-8417-51621cc0010c">
 
 
 Type `npm i` in terminal and press enter
-![npm i](mnpmi.png)
-
 
 <img width="528" alt="mnpmi" src="https://github.com/Noteblast/noteblast/assets/74037492/4613130f-ffd2-4a4b-b5ec-b7bf6b996b51">
 
 
 Type `node server.js` in terminal and press enter
-![node server.js](mserver.png)
 
 <img width="392" alt="mserver" src="https://github.com/Noteblast/noteblast/assets/74037492/4daa65a4-eae8-4894-b819-a05ecee62145">
 
